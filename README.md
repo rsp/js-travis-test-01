@@ -8,3 +8,6 @@ Travis test results:
 
 [<img src="https://travis-ci.org/rsp/rsp-js-travis-test-01.svg?branch=master" height="40">](https://travis-ci.org/rsp/rsp-js-travis-test-01)
 
+See also:
+
+* https://github.com/lenscript/lenscript-js-travis-test-01
