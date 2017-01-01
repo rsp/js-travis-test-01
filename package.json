@@ -1,9 +1,9 @@
 {
   "name": "js-travis-test-01",
   "version": "0.0.0",
-  "description": "",
+  "description": "Node.js Travis Example - for educational purposes",
   "scripts": {
-    "test": "bash test"
+    "test": "bash test.sh"
   },
   "repository": {
     "type": "git",
